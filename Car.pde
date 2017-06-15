@@ -35,5 +35,7 @@ void draw()
     move.showCoin();
     move.showBomb();
   }
+  
+  //lorem ipsum dolor sit amet
     
 }
